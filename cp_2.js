@@ -16,7 +16,7 @@ function fetchProductsThen() {
 
 }
 
-// products async /step 4
+// products async/step 4
 
 async function fetchProductsAsync() {
   try {
@@ -29,7 +29,7 @@ async function fetchProductsAsync() {
 
 }
 
-// writing display products/ step 5
+// writing display products/step 5
 
 function displayProducts(products) {
     let container = document.getElementById("product-container");
